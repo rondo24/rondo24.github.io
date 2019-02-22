@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NBA Stats that Translate to Team Success"
-date:       2019-02-22 16:36:29 +0000
+date:       2019-02-22 11:36:30 -0500
 permalink:  nba_stats_that_translate_to_team_success
 ---
 
